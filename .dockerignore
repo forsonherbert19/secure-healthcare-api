@@ -1,0 +1,13 @@
+.venv/
+.env
+.git/
+.github/
+__pycache__/
+*.pyc
+.pytest_cache/
+logs/
+*.db
+.DS_Store
+tests/
+README.md
+threat_model.md
