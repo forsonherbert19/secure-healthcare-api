@@ -234,3 +234,9 @@ See [`threat_model.md`](threat_model.md) for the project's threat model, trust b
 ## Disclaimer
 
 All healthcare records, users, diagnoses, medications, and events in this repository are synthetic and created solely for educational and security-testing purposes.
+
+##Author
+
+Herbert Forson
+
+Computer and Information Sciences student focused on cloud security, software engineering, cybersecurity, AWS, and security engineering.
